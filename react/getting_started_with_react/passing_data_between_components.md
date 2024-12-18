@@ -241,7 +241,7 @@ export default function App() {
 
   return (
     <div>
-      <Button handleClick={() => handleButtonClick('www.theodinproject.com')} />
+      <Button handleClick={() => handleButtonClick('https://www.theodinproject.com')} />
     </div>
   );
 }
